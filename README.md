@@ -1,4 +1,4 @@
-<p align="center"><img src="screenshots/options.png"></p>
+<p align="center"><img height=543px src="screenshots/options.png"></p>
 
 <h2 align="center">AnJoy Add-on for Anki</h2>
 
